@@ -2,13 +2,8 @@
 
 A futuristic, dark-mode learning dashboard built as a frontend internship challenge. Features live data from Supabase, hardware-accelerated animations via Framer Motion, and a clean Bento Grid layout.
 
-**Live Demo:** [Deployed on Vercel](#) &nbsp;|&nbsp; **Author:** [Ankit](https://github.com/Ankit1923-mr)
+**Live Demo:** [learning-dashboard-two-beta.vercel.app](https://learning-dashboard-two-beta.vercel.app)
 
----
-
-![Dashboard Preview](https://via.placeholder.com/1200x630/0a0a0f/8b5cf6?text=LearnOS+Dashboard)
-
----
 
 ## Tech Stack
 
